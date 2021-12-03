@@ -1,4 +1,5 @@
 **Lunix:
+
 -sudo npm install -g allure-commandline --save-dev
 cd /path/to/project
 - run tests (after setting up a test reporting plugin such as surefire)
@@ -6,7 +7,7 @@ cd /path/to/project
 - allure serve
 
 
-**windows:
+**Windows:
 - npm install -g allure-commandline
 - cd /path/to/project
 - run tests (after setting up a test reporting plugin such as surefire)
